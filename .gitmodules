@@ -1,0 +1,11 @@
+[submodule "packet-tracer-project-labs"]
+	path = packet-tracer-project-labs
+	url = git@github.com:whosubashsubedii/Packet-Tracer-Project-Labs.git
+
+[submodule "gns3-network-projects"]
+	path = gns3-network-projects
+	url = git@github.com:whosubashsubedii/GNS3-Network-Projects.git
+
+[submodule "network-automation-scripts"]
+	path = network-automation-scripts
+	url = git@github.com:whosubashsubedii/Network-Automation-Scripts.git
