@@ -7,3 +7,6 @@
 [submodule "Network-Automation-Scripts"]
 	path = Network-Automation-Scripts
 	url = git@github.com:whosubashsubedii/Network-Automation-Scripts.git
+[submodule "Mikrotik-Project-Labs"]
+	path = Mikrotik-Project-Labs
+	url = git@github.com:whosubashsubedii/Mikrotik-Project-Labs.git
