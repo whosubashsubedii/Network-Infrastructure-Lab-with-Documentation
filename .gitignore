@@ -1,4 +1,4 @@
-# Ignore files inside submodules, since they manage their own gitignore
+# Ignore submodule folders (they manage their own git)
 packet-tracer-project-labs/
 gns3-network-projects/
 network-automation-scripts/
@@ -10,3 +10,10 @@ Thumbs.db
 # Backup and temp files
 *.bak
 *.tmp
+
+# Documentation build folders (if any)
+_build/
+output/
+
+# Logs
+*.log
